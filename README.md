@@ -1,2 +1,2 @@
 # Project_Calculator
-By using of html,css and javascript i made a calculator
+Create a calculator by using a Html,Css and Javascript
